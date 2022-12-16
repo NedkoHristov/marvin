@@ -20,3 +20,7 @@ Structure:
 # Too complicated?
 
 Maybe it is, maybe it isn't. That's my job so why not implement the best practices on my long suffering for best practices VPS? I have experience with all the technologies but never had the chance to start from the beginngin so I've found an scapegoat. Sorry, `marvin`.
+
+# btw who is `marvin`?
+
+Marvin is named after the always suffering humanoid from Douglas Adams' The Hitchhiker's Guide to the Galaxy and my VPS where https://nedko.info and couple of other projects lives. More info and his lifetime [can be found here](https://www.nedko.info/marvin/).
