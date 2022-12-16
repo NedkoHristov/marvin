@@ -14,6 +14,7 @@ Structure:
 * container orchestration with kubernetes
 * secrets management with HashiCorp Vault
 * backup solution - bash and hope for the best
+* CI/CD - GitHub actions including container and leaking secrets scanning, DAST, SAST, IAST and automatic deployments of approved PR
 
 # Too complicated?
 
