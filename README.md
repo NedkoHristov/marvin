@@ -10,10 +10,11 @@ Structure:
 * Infrastructure as a Code - terraform to create a DO droplet
 * Configuration management - Ansible
 * Monitoring - grafana with logstash
-* docker for various projects incl. portainer and heimdall
-* container orchestration with kubernetes
-* secrets management with HashiCorp Vault
-* backup solution - bash and hope for the best
+* Containers:
+	* docker for various projects incl. portainer and heimdall
+	* container orchestration with kubernetes
+* Secrets management with HashiCorp Vault
+* Backup solution - bash and hope for the best
 * CI/CD - GitHub actions including container and leaking secrets scanning, DAST, SAST, IAST and automatic deployments of approved PR
 
 # Too complicated?
